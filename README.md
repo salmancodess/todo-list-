@@ -1,5 +1,5 @@
 # URL Shortner Website
-    developed by JV Logesh For youtube channel "JVL code"
+    developed by salmancodess 
 
 ## Requirements:
     - PHP 7.4
